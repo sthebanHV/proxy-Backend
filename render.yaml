@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: proxy-backend
+    env: docker
+    plan: free
+    buildCommand: "./mvnw clean package -DskipTests"
+    startCommand: "java -jar target/proxy-backend-1.0.0.jar"
+    envVars:
+      - key: PORT
+        value: "8080"
+      - key: CORS_ALLOWED_ORIGINS
+        value: "https://proxy-frontend.vercel.app"
+    healthCheckPath: /actuator/health
