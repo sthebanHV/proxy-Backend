@@ -1,10 +1,9 @@
 services:
   - type: web
     name: proxy-backend
-    env: java
+    env: docker
     plan: free
-    buildCommand: "./mvnw clean package -DskipTests"
-    startCommand: "java -Xmx256m -jar target/proxy-backend-1.0.0.jar"
+    dockerfilePath: ./Dockerfile
     envVars:
       - key: PORT
         value: "8080"
