@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\config\ProxyConfig.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\proxy\LoggingProxy.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\proxy\MicroserviceProxy.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\model\PageResponse.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\ProxyBackendApplication.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\repository\LogRepository.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\service\PaymentService.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\model\Status.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\controller\MetricsController.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\model\LogEntry.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\controller\ServiceController.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\service\OrderService.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\model\ServiceMetrics.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\config\CorsConfig.java
+C:\Users\ACER\Desktop\proxy\proxy-Backend\src\main\java\com\example\proxy\service\InventoryService.java

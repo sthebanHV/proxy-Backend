@@ -1,0 +1,10 @@
+server:
+  port: 0
+
+spring:
+  application:
+    name: proxy-backend-test
+
+logging:
+  level:
+    com.example.proxy: DEBUG

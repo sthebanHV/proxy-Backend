@@ -1,0 +1,15 @@
+com\example\proxy\model\PageResponse.class
+com\example\proxy\model\ServiceMetrics.class
+com\example\proxy\service\OrderService.class
+com\example\proxy\model\Status.class
+com\example\proxy\service\PaymentService.class
+com\example\proxy\ProxyBackendApplication.class
+com\example\proxy\proxy\LoggingProxy.class
+com\example\proxy\repository\LogRepository.class
+com\example\proxy\config\ProxyConfig.class
+com\example\proxy\controller\MetricsController.class
+com\example\proxy\model\LogEntry.class
+com\example\proxy\service\InventoryService.class
+com\example\proxy\proxy\MicroserviceProxy.class
+com\example\proxy\config\CorsConfig.class
+com\example\proxy\controller\ServiceController.class
